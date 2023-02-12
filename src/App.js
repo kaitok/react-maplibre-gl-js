@@ -16,7 +16,7 @@ function App() {
   );
   return (
     <div className="App">
-      <div id="map">aaa</div>
+      <div id="map"></div>
     </div>
   );
 }
