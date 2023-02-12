@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { useState, useEffect } from 'react';
 import maplibregl from 'maplibre-gl'; // or "const maplibregl = require('maplibre-gl');"
