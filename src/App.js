@@ -4,8 +4,7 @@ import maplibregl from 'maplibre-gl'; // or "const maplibregl = require('maplibr
 
 
 function App() {
-  useEffect(
-    () => {
+  useEffect(() => {
       const map = new maplibregl.Map({
         container: 'map',
         style: 'https://demotiles.maplibre.org/style.json', // stylesheet location
